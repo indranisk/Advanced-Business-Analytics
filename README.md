@@ -17,7 +17,7 @@ Animal Center.
 ## Project Goals: Data Analysis and Modelling
 * Understand the Data!
 * Understanding what data is available
-* What are challenges given in the data set
+* What are challenges given in the data set?
 * Which information is missing / which extra information would be helpful?
 * Can additional attributes be generated ?
-* Why is your chosen model useful ?
+* Why is the chosen model useful ?
