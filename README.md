@@ -2,7 +2,7 @@
 
 
 ## Objective
-The objective is to perform all steps of the CRISP-Process in order to develop an good prediction model for the predicting outcomes of Shelter Animal of a shelter
+The objective is to perform all steps of the Cross Industry Standard Process for Data Mining Technology (CRISP) in order to develop an good prediction model for the predicting outcomes of Shelter Animal of a shelter
 .The implementation is carried out
 in KNIME.
 
